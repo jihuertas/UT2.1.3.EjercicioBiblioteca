@@ -84,5 +84,3 @@ En el programa principal deberás:
 * El **programa principal** debe demostrar todas las funcionalidades pedidas.
 
 ---
-
-¿Quieres que también te lo prepare con **formato de hoja de ejercicios para alumnado** (con apartados tipo “Ejercicio 1, Ejercicio 2…”) para que sea aún más didáctico?
