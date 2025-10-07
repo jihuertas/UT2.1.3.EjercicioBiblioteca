@@ -1,0 +1,10 @@
+📚 RESUMEN DE LA BIBLIOTECA
+==================================================
+
+Título: Cien años de soledad | Autor: Gabriel García Márquez | Año: 1967 | Género: Novela | Préstamos totales: 1
+Título: El Quijote | Autor: Miguel de Cervantes | Año: 1605 | Género: Novela | Préstamos totales: 2
+Título: 1984 | Autor: George Orwell | Año: 1949 | Género: Distopía | Préstamos totales: 1
+Título: La sombra del viento | Autor: Carlos Ruiz Zafón | Año: 2001 | Género: Misterio | Préstamos totales: 0
+Título: El principito | Autor: Antoine de Saint-Exupéry | Año: 1943 | Género: Fábula | Préstamos totales: 0
+
+==================================================
